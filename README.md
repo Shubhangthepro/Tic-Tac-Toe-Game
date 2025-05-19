@@ -3,7 +3,7 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 🏁 Features
 
-- Player vs Player
+- Two Player Game
 - Win/Draw detection
 - Restart button
 
